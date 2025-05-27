@@ -19,5 +19,4 @@ This project forecasts Wikipedia page views using real traffic data with ARIMA, 
 ## Author
 
 Oluwadamilola Oreofe Ajakaiye  
-MSc Data Science, University of Wolverhampton  
 Email: damilolaajakaiye@hotmail.com
